@@ -1,5 +1,5 @@
 # Admissions
-You're asked by the Jarvard Medical School to write a BASH script to decide admissions. Here's the criteria their board has specified.
+You're asked by the Jarvard Medical School to write a BASH script to decide admissions. Here's the criteria their board has specified./
 
 1. The strength of the application depends mainly on GPA and the grade given to the student's professional statement, each carrying equal weight (**NOTE**: GPA is out of 4 and statement grade is out of 5, so you can't just take their average or sum them!). If there is a tie, the student with the higher GPA should be picked.
 2. Up to 20% of the admissions are allocated to the children of the school alumni.
